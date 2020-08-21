@@ -1,9 +1,9 @@
 title: 418 I'm a teapod
-email: 418@teapod.world
+email: 418@teapod.club
 description: >-
   a chill 20 to 30 minutes chatting about life and web tech
 baseurl: ""
-url: "https://teapod.world"
+url: "https://teapod.club"
 
 collections:
   posts:
