@@ -21,13 +21,18 @@
     />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168683396-3"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-168683396-3"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-      gtag('config', 'UA-168683396-3');
+      gtag("config", "UA-168683396-3");
     </script>
 
     <link
@@ -151,14 +156,17 @@
       content="/media/favicon/ms-icon-144x144.png"
     />
     <meta name="theme-color" content="#ffffff" />
-    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <script
+      src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"
+      crossorigin="anonymous"
+    ></script>
     <style>
-       img.emoji {
-          height: 1em;
-          width: 1em;
-          margin: 0 .05em 0 .1em;
-          vertical-align: -0.1em;
-       }
+      img.emoji {
+        height: 1em;
+        width: 1em;
+        margin: 0 0.05em 0 0.1em;
+        vertical-align: -0.1em;
+      }
     </style>
   </head>
 
@@ -196,11 +204,15 @@
       <div class="row u-vertically-center">
         <div class="col-8">
           <div class="p-media-object--large u-no-margin--bottom">
+            {% if page.emoji %}
             <span
               class="p-media-object__image"
               style="font-size: 72px; line-height: 92px;"
               >{{ page.emoji }}</span
             >
+            {% endif %} {% if page.image %}
+            <img class="p-media-object__image" src="/assets/{{page.image}}" />
+            {% endif %}
             <div class="p-media-object__details">
               <h1 class="u-no-margin--bottom">{{ page.title }}</h1>
               {% if page.subtitle%}
@@ -235,6 +247,8 @@
         </div>
       </nav>
     </footer>
-    <script>twemoji.parse(document.body)</script>
+    <script>
+      twemoji.parse(document.body);
+    </script>
   </body>
 </html>

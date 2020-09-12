@@ -2,7 +2,7 @@ Arguments:
   /snap/node/2913/bin/node /usr/local/bin/yarn global dir
 
 PATH: 
-  /home/luke/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/luke/gems/bin:/home/luke/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.4

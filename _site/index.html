@@ -22,7 +22,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-168683396-2"
+      src="https://www.googletagmanager.com/gtag/js?id=UA-168683396-3"
     ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -31,7 +31,7 @@
       }
       gtag("js", new Date());
 
-      gtag("config", "UA-168683396-2");
+      gtag("config", "UA-168683396-3");
     </script>
 
     <link
@@ -40,12 +40,12 @@
     />
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
-    <meta name="author" content="toto" />
+    <meta name="author" content="toto & luke" />
     <meta
       name="copyright"
-      content="&copy; 2020 toto Corp."
+      content="&copy; 2020 418 I'm a teapod"
     />
-    <link rel="alternate" href="https://teapod.world" hreflang="en-GB" />
+    <link rel="alternate" href="https://teapod.club" hreflang="en-GB" />
 
     <meta
       name="description"
@@ -56,7 +56,7 @@
       property="og:title"
       content="418 I'm a teapod | 418 I'm a teapod"
     />
-    <meta property="og:site_name" content="Toto's Blog" />
+    <meta property="og:site_name" content="418 Teapod" />
     <meta property="og:type" content="website" />
     <meta
       property="og:description"
@@ -68,8 +68,8 @@
       content="http://localhost:4000/"
     />
     <meta property="twitter:card" content="summary" />
-    <meta property="twitter:site" content="@totostache" />
-    <meta property="twitter:creator" content="@totostache" />
+    <meta property="twitter:site" content="@418teapod" />
+    <meta property="twitter:creator" content="@418teapod" />
     <meta
       property="twitter:url"
       content="http://localhost:4000/"
@@ -155,6 +155,18 @@
       content="/media/favicon/ms-icon-144x144.png"
     />
     <meta name="theme-color" content="#ffffff" />
+    <script
+      src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      img.emoji {
+        height: 1em;
+        width: 1em;
+        margin: 0 0.05em 0 0.1em;
+        vertical-align: -0.1em;
+      }
+    </style>
   </head>
 
   <body>
@@ -191,11 +203,9 @@
       <div class="row u-vertically-center">
         <div class="col-8">
           <div class="p-media-object--large u-no-margin--bottom">
-            <span
-              class="p-media-object__image"
-              style="font-size: 72px; line-height: 92px;"
-              >🎙️</span
-            >
+             
+            <img class="p-media-object__image" src="/assets/teapod-logo.svg" />
+            
             <div class="p-media-object__details">
               <h1 class="u-no-margin--bottom">418 I'm a teapod</h1>
               
@@ -222,7 +232,7 @@
           <p>© 2020 418 I'm a teapod</p>
           <ul class="p-inline-list--middot">
             <li class="p-inline-list__item">
-              <a href="https://github.com/tbille/teapod.world/issues/new"
+              <a href="https://github.com/tbille/teapod.club/issues/new"
                 ><small>Report a bug on this site</small></a
               >
             </li>
@@ -233,5 +243,8 @@
         </div>
       </nav>
     </footer>
+    <script>
+      twemoji.parse(document.body);
+    </script>
   </body>
 </html>
