@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teapod is coming
+title: 📰 Teapod is coming
 summary: A new podcast on the podcast game
 date: 2020-09-12T21:16:50.391Z
 ---
