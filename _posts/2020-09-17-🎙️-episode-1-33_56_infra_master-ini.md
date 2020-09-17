@@ -12,14 +12,9 @@ Luke explains how he is using firebase every day and Toto talks about how he upd
 
 Visit [teapod.club](https://teapod.club) and give us feedback on twitter [@418teapod](https://twitter.com/418teapod) or [discord](https://discord.gg/WJtHWWz)
 
-
-
 **Links:**
 
-[Why don't cows have upper front teeth?](https://www.quora.com/Why-dont-cows-have-upper-front-teeth?share=1)
-
-[Firebase](https://firebase.google.com/)
-
-[Purple Task - Snap](https://snapcraft.io/purple-task) | [Purple Task - Repo](https://github.com/mivoligo/purple_task)
-
-[~~Power over ~~ethernet over power](https://smile.amazon.co.uk/gp/product/B06VW1WCCD)
+* [Why don't cows have upper front teeth?](https://www.quora.com/Why-dont-cows-have-upper-front-teeth?share=1)
+* [Firebase](https://firebase.google.com/)
+* [Purple Task - Snap](https://snapcraft.io/purple-task) - [Purple Task - Repo](https://github.com/mivoligo/purple_task)[](https://smile.amazon.co.uk/gp/product/B06VW1WCCD)
+* [ethernet over power](https://smile.amazon.co.uk/gp/product/B06VW1WCCD)
