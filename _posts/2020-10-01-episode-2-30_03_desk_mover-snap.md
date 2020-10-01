@@ -12,6 +12,8 @@ Toto played with snaps and built some silly snaps and Luke had some desk stress!
 
 Visit [teapod.club](https://teapod.club) and give us feedback on twitter [@418teapod](https://twitter.com/418teapod) or [discord](https://discord.gg/WJtHWWz)
 
+DON T FORGET TO PARTICIPATE TO [THE POLL](https://www.strawpoll.me/21033217)
+
 **Link:**
 
 * [Sheep location twitter account](https://twitter.com/BHSheep)
