@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 2 - 30_03_desk_mover.snap
+title: 🎙️ Episode 2 - 30_03_desk_mover.snap
 summary: sheep, snaps, desks
 date: 2020-10-01T20:46:49.318Z
 ---
