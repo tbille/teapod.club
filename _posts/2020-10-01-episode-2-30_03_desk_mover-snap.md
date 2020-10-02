@@ -17,12 +17,12 @@ DON T FORGET TO PARTICIPATE TO [THE POLL](https://www.strawpoll.me/21033217)
 **Link:**
 
 * [Sheep location twitter account](https://twitter.com/BHSheep)
-* [Toto snap](https://snapcraft.io/toto>)
+* [Toto snap](https://snapcraft.io/toto)
 * [CDRom snap](https://snapcraft.io/cdrom)
 * [EPIC REAL GAMER CHAIR](https://www.amazon.co.uk/Hbada-Footrest-Ergonomic-Computer-Adjustment/dp/B07WSSSKM6)
 
 Blippy Trance by Kevin MacLeod 
 
-Link: [https://incompetech.filmmusic.io/song/5759-blippy-trance](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fincompetech.filmmusic.io%2Fsong%2F5759-blippy-trance)
+Link: [https://incompetech.filmmusic.io/song/5759-blippy-trance](https://incompetech.filmmusic.io/song/5759-blippy-trance)
 
-License: [http://creativecommons.org/licenses/by/4.0/](https://meet.google.com/linkredirect?authuser=0&dest=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F4.0%2F)
+License: [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
