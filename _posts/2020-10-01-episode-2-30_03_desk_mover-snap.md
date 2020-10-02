@@ -17,7 +17,7 @@ DON T FORGET TO PARTICIPATE TO [THE POLL](https://www.strawpoll.me/21033217)
 **Link:**
 
 * [Sheep location twitter account](https://twitter.com/BHSheep)
-* [Toto snap](https://snapcraft.io/toto>)
+* [Toto snap](https://snapcraft.io/toto)
 * [CDRom snap](https://snapcraft.io/cdrom)
 * [EPIC REAL GAMER CHAIR](https://www.amazon.co.uk/Hbada-Footrest-Ergonomic-Computer-Adjustment/dp/B07WSSSKM6)
 
