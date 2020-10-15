@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 36_28_spreadsheet_king.pdf
+title: 🎙️ 36_28_spreadsheet_king.pdf
 summary: pigs, scripts, datastudio
 date: 2020-10-15T19:49:23.568Z
 ---
