@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 4 - 36_58_ultra_wide.exe
+title: 🎙️ Episode 4 - 36_58_ultra_wide.exe
 summary: Hogs, roaster, monitors
 date: 2020-10-29T20:27:07.199Z
 ---
