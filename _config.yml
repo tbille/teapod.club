@@ -11,3 +11,11 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path:            "admin/**/*"
+    values:
+      sitemap:         false
