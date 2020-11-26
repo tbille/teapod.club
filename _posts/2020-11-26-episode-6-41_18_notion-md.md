@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 6 - 41_18_notion.md
+title: 🎙️ Episode 6 - 41_18_notion.md
 summary: Dog and goat, notion
 date: 2020-11-26T20:02:40.806Z
 ---
