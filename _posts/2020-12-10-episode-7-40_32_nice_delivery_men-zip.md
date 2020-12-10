@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 7 - 40_32_nice_delivery_men.zip
+title: 🎙️ Episode 7 - 40_32_nice_delivery_men.zip
 summary: pigs, vscode, stadia
 date: 2020-12-10T21:20:24.896Z
 ---
